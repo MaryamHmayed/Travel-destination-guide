@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(4, 5, 45);
+}
+
+
+.profile{
+    display: flex;
+    align-items: center;
+    color: white;
+    padding:30px;
+   
+    
+    
+}
+
+.profile img{
+    width: 270px;
+    height: 250px;
+    margin: 20px;
+}
+input{
+    color:rgb(238, 231, 230);
+    border-color:white;
+    border-radius: 5px;
+}
+
+.profile p{
+ padding-bottom: 10px;
+}
+
